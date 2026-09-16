@@ -1,0 +1,24 @@
+/*
+ * File: mystyle.css
+ * Author: Fernando Contreras
+ * Course: CSD 420 Advanced Java Programming
+ * Assignment: Module 7 Programming Assignment
+ */
+
+.plainStyle {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+#redStyle {
+    -fx-fill: red;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
+
+#greenStyle {
+    -fx-fill: green;
+    -fx-stroke: black;
+    -fx-stroke-width: 2;
+}
